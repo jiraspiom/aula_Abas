@@ -9,6 +9,9 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="Em Alta" />
+        android:gravity="center_horizontal|center"
+        android:scrollbarAlwaysDrawHorizontalTrack="false"
+        android:text="Em Alta"
+        android:textSize="24sp" />
 
 </FrameLayout>
